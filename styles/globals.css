@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "CartographCF";
+  src: url('../asset/CartographCF/CartographCF-Regular.ttf');
+}
+@font-face {
+  font-family: "Visby";
+  src: url('../asset/Visby/VisbyRegular.otf')  format("opentype");
+}
