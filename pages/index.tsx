@@ -20,7 +20,7 @@ const Home: NextPage = () => {
 
 <p className="text-left text-xl w-full my-4">In my previous job, I'm Android Engineer for <a href="http://www.mindfi.co" className="underline text-purple-500" target="_blank">MindFi (YC21)</a> where I headed the migration from Flutter to Native Android Kotlin. I also headed and involved (heavily) in other engineering and product related initiatives such as instrumenting of product analytics, data analytics, internal tools, dashboard and report generation.</p>
 
-<p className="text-left text-xl w-full my-4">If I am away from my computer, you can typically find me walking around Marina Bay Sands, Singapore almost every night, with my earphones listening to <a href='https://open.spotify.com/playlist/5IrWJmIwRls9Zkp099YG2Y?si=f9d7f94c774a4feb' className='underline text-green-400' target="_blank">my cruated Spotify playlist since 2013</a>.</p>
+<p className="text-left text-xl w-full my-4">After hours, you can typically find me walking around Marina Bay Sands, Singapore almost every night, with my earphones listening to <a href='https://open.spotify.com/playlist/5IrWJmIwRls9Zkp099YG2Y?si=f9d7f94c774a4feb' className='underline text-green-400' target="_blank">my cruated Spotify playlist since 2013</a>.</p>
 
 <p className="text-left text-xl w-full my-4">You can find me online on most platforms with the handle @harrizontal, including <a href="https://www.linkedin.com/in/harrison-wong-jun-yong/" className="underline text-blue-600" target="_blank">LinkedIn</a>, <a href="http://github.com/harrizontal" className="underline text-black" target="_blank">GitHub</a>, <a href="http://twitter.com/harrizontal" className="underline text-blue-400" target="_blank">Twitter</a> and <a href="http://dribbble.com/harrizontal" className="underline text-pink-600" target="_blank">Dribbble</a>.</p>
 
@@ -28,7 +28,7 @@ const Home: NextPage = () => {
       </main>
 
       <footer className="flex h-24 w-full items-center justify-center">
-      Last updated on 15 Jul 2022 by Harrison Wong 
+      Last updated on 1 Aug 2022 by Harrison Wong 
       </footer>
     </div>
   )
